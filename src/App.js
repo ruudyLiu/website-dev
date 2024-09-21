@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Portofio Website
+          Ruudy Liu's Website
         </a>
       </header>
     </div>
