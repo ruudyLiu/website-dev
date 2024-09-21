@@ -1,7 +1,7 @@
 {
-  "name": "rl-personal-website",
+  "name": "ruudyliu-personal-website",
   "version": "0.1.0",
-  "homepage": "http://ruudyLiu.github.io/{website}",
+  "homepage": "http://ruudyliu.github.io/website", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

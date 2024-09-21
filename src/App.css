@@ -9,12 +9,16 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 40s ease-in-out;
+    margin-top: 0%;
+    margin-bottom: 1.5%;
+    width: 500px;  /* Set the width */
+    height: 500px; /* Set the height */
   }
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #080808;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +29,11 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #d9d9d9;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  margin-bottom: 5%;
+  font-size: 3rem;
 }
 
 @keyframes App-logo-spin {

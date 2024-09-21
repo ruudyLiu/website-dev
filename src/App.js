@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 import { useState } from 'react';
 
@@ -7,16 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          RLTest Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://ruudyliu.wixsite.com/ruudyliu"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Portofio Website
         </a>
       </header>
     </div>
